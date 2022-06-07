@@ -1,0 +1,648 @@
+Intel Skylake G3900,784
+Intel Skylake G3900,833
+Intel Skylake G3900,879
+Intel Skylake G3900,882
+Intel Skylake G3900,928
+Intel Skylake G3900,974
+Intel Skylake G3900,977
+Intel Skylake G3900,1023
+Intel Skylake G3900,1069
+Intel Skylake G3900,1072
+Intel Skylake G3900,1118
+Intel Skylake G3900,1167
+Intel Kaby Lake G3930,1392
+Intel Kaby Lake G3950,1408
+Intel Kaby Lake G3930,1413
+Intel Kaby Lake G3950,1429
+Intel Kaby Lake G3930,1434
+Intel Kaby Lake G3930,1440
+Intel Kaby Lake G3950,1450
+Intel Kaby Lake G3950,1457
+Intel Kaby Lake G3930,1461
+Intel Kaby Lake G3950,1478
+Intel Kaby Lake G3930,1482
+Intel Kaby Lake G3930,1489
+Intel Kaby Lake G3950,1499
+Intel Kaby Lake G3950,1506
+Intel Kaby Lake G3930,1510
+Intel Kaby Lake G3950,1527
+Intel Kaby Lake G3930,1531
+Intel Kaby Lake G3930,1538
+Intel Kaby Lake G3950,1548
+Intel Kaby Lake G3950,1554
+Intel Skylake G4400,1558
+Intel Kaby Lake G3930,1559
+Intel Kaby Lake G3950,1575
+Intel Kaby Lake G3930,1580
+Intel Skylake G4400,1590
+Intel Kaby Lake G3950,1596
+Intel Skylake G4400,1613
+Intel Skylake G4400,1622
+Intel Skylake G4400,1645
+Intel Skylake G4500,1656
+Intel Skylake G4400,1667
+Intel Skylake G4400,1677
+Intel Skylake G4500,1688
+Intel Skylake G4400,1699
+Intel Skylake G4520,1705
+Intel Skylake G4500,1711
+Intel Skylake G4500,1720
+Intel Skylake G4400,1722
+Intel Skylake G4400,1731
+Intel Skylake G4520,1737
+Intel Skylake G4500,1743
+Intel Skylake G4400,1754
+Intel Skylake G4520,1760
+Intel Skylake G4500,1766
+Intel Skylake G4520,1769
+Intel Skylake G4500,1775
+Intel Skylake G4400,1786
+Intel Skylake G4520,1792
+Intel Skylake G4500,1798
+Intel Skylake G4520,1815
+Intel Skylake G4500,1820
+Intel Skylake G4520,1824
+Intel Skylake G4500,1830
+Intel Skylake G4520,1847
+Intel Skylake G4500,1852
+Intel Skylake G4520,1870
+Intel Skylake G4520,1879
+Intel Skylake G4500,1884
+Intel Skylake G4520,1902
+Intel Skylake G4520,1934
+Intel Skylake i3 6100T,2101
+Intel Skylake i3 6100T,2129
+Intel Kaby Lake G4560,2146
+Intel Skylake i3 6100T,2157
+Intel Kaby Lake G4560,2165
+Intel Kaby Lake G4560,2184
+Intel Kaby Lake G4600,2222
+Intel Skylake i3 6100T,2222
+Intel Kaby Lake G4560,2240
+Intel Kaby Lake G4600,2241
+Intel Skylake i3 6100,2241
+Intel Skylake i3 6100T,2250
+Intel Kaby Lake G4560,2259
+Intel Kaby Lake G4600,2260
+Intel Skylake i3 6100,2269
+Intel Skylake i3 6300,2269
+Intel Kaby Lake G4560,2278
+Intel Skylake i3 6100T,2278
+Intel Kaby Lake i3 7100,2295
+Intel Kaby Lake G4620,2297
+Intel Skylake i3 6100,2297
+Intel Skylake i3 6300,2297
+Intel Skylake i3 6320,2297
+Intel Kaby Lake G4600,2316
+Intel Kaby Lake G4620,2316
+Intel Skylake i3 6300,2325
+Intel Skylake i3 6320,2325
+Intel Kaby Lake G4560,2334
+Intel Kaby Lake G4600,2335
+Intel Kaby Lake G4620,2335
+Intel Kaby Lake i3 7100,2336
+Intel Skylake i3 6100T,2342
+Intel Kaby Lake i3 7300,2349
+Intel Kaby Lake G4560,2353
+Intel Skylake i3 6320,2353
+Intel Kaby Lake G4600,2354
+Intel Skylake i3 6100,2362
+Intel Skylake i3 6100T,2370
+Intel Kaby Lake G4560,2372
+Intel Kaby Lake i3 7100,2377
+Intel Skylake i3 6100,2389
+Intel Kaby Lake i3 7300,2390
+Intel Skylake i3 6300,2390
+Intel Kaby Lake G4620,2391
+Intel Skylake i3 6100T,2398
+Intel Kaby Lake i3 7320,2403
+Intel Kaby Lake G4600,2410
+Intel Kaby Lake G4620,2410
+Intel Skylake i3 6100,2418
+Intel Skylake i3 6300,2418
+Intel Skylake i3 6320,2418
+Intel Kaby Lake G4560,2428
+Intel Kaby Lake G4600,2429
+Intel Kaby Lake G4620,2429
+Intel Kaby Lake i3 7300,2431
+Intel Kaby Lake i3 7100,2443
+Intel Kaby Lake i3 7320,2444
+Intel Skylake i3 6300,2446
+Intel Skylake i3 6320,2446
+Intel Kaby Lake G4560,2447
+Intel Kaby Lake G4600,2448
+Intel Kaby Lake i3 7350K,2457
+Intel Skylake i3 6100T,2463
+Intel Kaby Lake G4560,2466
+Intel Skylake i3 6320,2474
+Intel Skylake i3 6100,2482
+Intel Kaby Lake i3 7100,2484
+Intel Kaby Lake G4620,2485
+Intel Kaby Lake i3 7320,2485
+Intel Skylake i3 6100T,2491
+Intel Kaby Lake i3 7300,2497
+Intel Kaby Lake i3 7350K,2498
+Intel Kaby Lake G4600,2504
+Intel Kaby Lake G4620,2504
+Intel Skylake i3 6100,2510
+Intel Skylake i3 6300,2510
+Intel Skylake i3 6100T,2519
+Intel Kaby Lake G4600,2523
+Intel Kaby Lake G4620,2523
+Intel Kaby Lake i3 7100,2525
+Intel Kaby Lake i3 7300,2538
+Intel Skylake i3 6100,2538
+Intel Skylake i3 6300,2538
+Intel Skylake i3 6320,2538
+Intel Kaby Lake i3 7350K,2539
+Intel Kaby Lake G4600,2542
+Intel Kaby Lake i3 7320,2551
+Intel Skylake i3 6300,2566
+Intel Skylake i3 6320,2566
+Intel Kaby Lake i3 7300,2579
+Intel Kaby Lake G4620,2580
+Intel Kaby Lake i3 7100,2590
+Intel Kaby Lake i3 7320,2592
+Intel Skylake i3 6320,2594
+Intel Kaby Lake G4620,2599
+Intel Skylake i3 6100,2603
+Intel Kaby Lake i3 7350K,2605
+Intel Kaby Lake G4620,2618
+Intel Kaby Lake i3 7100,2631
+Intel Skylake i3 6100,2631
+Intel Skylake i3 6300,2631
+Intel Kaby Lake i3 7320,2633
+Intel Kaby Lake i3 7300,2644
+AMD Ryzen 3 1200,2645
+Intel Kaby Lake i3 7350K,2646
+Intel Skylake i3 6100,2659
+Intel Skylake i3 6300,2659
+Intel Skylake i3 6320,2659
+Intel Kaby Lake i3 7100,2672
+Intel Kaby Lake i3 7300,2685
+Intel Kaby Lake i3 7350K,2687
+Intel Skylake i3 6300,2687
+Intel Skylake i3 6320,2687
+Intel Kaby Lake i3 7320,2698
+Intel Skylake i3 6320,2715
+AMD Ryzen 3 1200,2720
+Intel Kaby Lake i3 7300,2726
+Intel Kaby Lake i3 7100,2738
+Intel Kaby Lake i3 7320,2739
+Intel Kaby Lake i3 7350K,2739
+Intel Kaby Lake i3 7350K,2752
+Intel Kaby Lake i3 7100,2779
+Intel Kaby Lake i3 7320,2780
+Intel Kaby Lake i3 7300,2792
+AMD Ryzen 3 1200,2795
+AMD Ryzen 3 1200,2795
+Intel Kaby Lake i3 7100,2820
+Intel Kaby Lake i3 7300,2833
+Intel Kaby Lake i3 7350K,2834
+Intel Kaby Lake i3 7320,2846
+AMD Ryzen 3 1300X,2866
+AMD Ryzen 3 1200,2870
+Intel Kaby Lake i3 7300,2874
+Intel Kaby Lake i3 7320,2887
+Intel Kaby Lake i3 7350K,2900
+Intel Kaby Lake i3 7320,2928
+Intel Skylake i5 6400,2930
+AMD Ryzen 3 1300X,2932
+Intel Kaby Lake i3 7350K,2941
+AMD Ryzen 3 1200,2945
+AMD Ryzen 3 1200,2945
+Intel Kaby Lake i3 7350K,2982
+AMD Ryzen 3 1300X,2998
+AMD Ryzen 3 1200,3020
+AMD Ryzen 3 1300X,3023
+Intel Skylake i5 6400,3026
+AMD Ryzen 3 1300X,3089
+AMD Ryzen 3 1200,3095
+AMD Ryzen 3 1200,3096
+Intel Skylake i5 6400,3122
+Intel Kaby Lake i5 7400,3135
+Intel Skylake i5 6500,3151
+AMD Ryzen 3 1300X,3155
+AMD Ryzen 3 1200,3171
+AMD Ryzen 3 1300X,3179
+Intel Skylake i5 6400,3216
+Intel Kaby Lake i5 7400,3239
+AMD Ryzen 3 1300X,3245
+AMD Ryzen 3 1200,3246
+Intel Skylake i5 6500,3247
+AMD Ryzen 5 1400,3273
+Intel Kaby Lake i5 7500,3304
+Intel Coffee Lake i3 8100,3309
+AMD Ryzen 3 1300X,3311
+Intel Skylake i5 6400,3312
+AMD Ryzen 3 1300X,3336
+Intel Kaby Lake i5 7400,3343
+Intel Skylake i5 6500,3343
+Intel Coffee Lake i3 8100,3350
+AMD Ryzen 5 1400,3360
+Intel Skylake i5 6600,3371
+Intel Skylake i5 6600K,3371
+Intel Coffee Lake i3 8100,3391
+AMD Ryzen 3 1300X,3402
+Intel Kaby Lake i5 7500,3408
+Intel Skylake i5 6400,3408
+Intel Skylake i5 6500,3437
+AMD Ryzen 5 1400,3447
+AMD Ryzen 3 1300X,3468
+Intel Skylake i5 6600,3468
+Intel Skylake i5 6600K,3468
+Intel Kaby Lake i5 7600,3472
+AMD Ryzen 5 1500X,3491
+Intel Skylake i5 6400,3502
+Intel Kaby Lake i5 7500,3512
+Intel Kaby Lake i5 7400,3516
+Intel Kaby Lake i5 7600K,3528
+Intel Skylake i5 6500,3533
+Intel Coffee Lake i3 8100,3542
+AMD Ryzen 5 1400,3543
+Intel Skylake i5 6600,3565
+Intel Skylake i5 6600K,3565
+Intel Kaby Lake i5 7600,3576
+AMD Ryzen 5 1500X,3577
+Intel Coffee Lake i3 8100,3583
+Intel Skylake i5 6400,3598
+Intel Coffee Lake i3 8350K,3614
+Intel Kaby Lake i5 7400,3620
+Intel Coffee Lake i3 8100,3624
+Intel Skylake i5 6500,3629
+AMD Ryzen 5 1400,3630
+Intel Kaby Lake i5 7600K,3632
+Intel Coffee Lake i3 8350K,3654
+Intel Skylake i5 6600,3657
+Intel Skylake i5 6600K,3657
+AMD Ryzen 5 1500X,3663
+Intel Kaby Lake i5 7600,3680
+Intel Kaby Lake i5 7500,3684
+Intel Coffee Lake i3 8350K,3694
+Intel Skylake i5 6400,3694
+AMD Ryzen 5 1400,3717
+Intel Skylake i5 6500,3722
+Intel Kaby Lake i5 7400,3724
+Intel Kaby Lake i5 7600K,3736
+Intel Skylake i5 6600,3754
+Intel Skylake i5 6600K,3754
+AMD Ryzen 5 1500X,3760
+Intel Coffee Lake i3 8100,3776
+Intel Kaby Lake i5 7500,3788
+Intel Skylake i5 6400,3788
+AMD Ryzen 5 1400,3812
+Intel Coffee Lake i3 8100,3817
+Intel Skylake i5 6500,3818
+AMD Ryzen 5 1500X,3846
+Intel Coffee Lake i3 8350K,3847
+Intel Skylake i5 6600,3851
+Intel Skylake i5 6600K,3851
+Intel Kaby Lake i5 7600,3853
+Intel Coffee Lake i3 8100,3857
+Intel Skylake i5 6400,3884
+Intel Coffee Lake i3 8350K,3887
+Intel Kaby Lake i5 7500,3892
+Intel Kaby Lake i5 7400,3897
+AMD Ryzen 5 1400,3899
+Intel Kaby Lake i5 7600K,3909
+Intel Skylake i5 6500,3914
+Intel Coffee Lake i3 8350K,3927
+AMD Ryzen 5 1500X,3932
+Intel Skylake i5 6600,3943
+Intel Skylake i5 6600K,3943
+Intel Kaby Lake i5 7600,3957
+Intel Skylake i5 6400,3980
+AMD Ryzen 5 1400,3986
+Intel Kaby Lake i5 7400,4001
+Intel Skylake i5 6500,4008
+Intel Coffee Lake i3 8100,4009
+Intel Kaby Lake i5 7600K,4013
+AMD Ryzen 5 1500X,4030
+Intel Skylake i5 6600,4040
+Intel Skylake i5 6600K,4040
+Intel Coffee Lake i3 8100,4050
+Intel Kaby Lake i5 7600,4061
+Intel Kaby Lake i5 7500,4065
+Intel Coffee Lake i3 8350K,4080
+AMD Ryzen 5 1400,4082
+Intel Coffee Lake i3 8100,4090
+Intel Skylake i5 6500,4104
+Intel Kaby Lake i5 7400,4105
+AMD Ryzen 5 1500X,4116
+Intel Kaby Lake i5 7600K,4117
+Intel Coffee Lake i3 8350K,4120
+Intel Skylake i5 6600,4137
+Intel Skylake i5 6600K,4137
+Intel Coffee Lake i3 8350K,4160
+AMD Ryzen 5 1400,4169
+Intel Kaby Lake i5 7500,4169
+Intel Skylake i7 6700,4185
+Intel Skylake i5 6500,4200
+AMD Ryzen 5 1500X,4202
+Intel Skylake i5 6600,4229
+Intel Skylake i5 6600K,4229
+Intel Kaby Lake i5 7600,4234
+AMD Ryzen 5 1400,4256
+Intel Kaby Lake i5 7500,4273
+Intel Skylake i7 6700,4273
+Intel Kaby Lake i5 7400,4278
+Intel Kaby Lake i5 7600K,4290
+AMD Ryzen 5 1500X,4299
+Intel Coffee Lake i3 8350K,4313
+Intel Skylake i5 6600,4326
+Intel Skylake i5 6600K,4326
+Intel Kaby Lake i5 7600,4338
+Intel Coffee Lake i3 8350K,4353
+Intel Skylake i7 6700,4361
+Intel Kaby Lake i5 7400,4382
+AMD Ryzen 5 1500X,4385
+Intel Coffee Lake i3 8350K,4393
+Intel Kaby Lake i5 7600K,4394
+Intel Skylake i5 6600,4423
+Intel Skylake i5 6600K,4423
+Intel Skylake i7 6700K,4425
+Intel Kaby Lake i5 7600,4442
+Intel Kaby Lake i5 7500,4446
+AMD Ryzen 5 1500X,4471
+Intel Kaby Lake i5 7400,4486
+Intel Kaby Lake i5 7600K,4498
+Intel Skylake i7 6700K,4514
+Intel Coffee Lake i5 8400,4539
+Intel Kaby Lake i5 7500,4550
+Intel Kaby Lake i7 7700,4586
+Intel Skylake i7 6700K,4603
+Intel Kaby Lake i5 7600,4615
+Intel Coffee Lake i5 8400,4647
+Intel Kaby Lake i5 7500,4654
+Intel Kaby Lake i7 7700,4666
+Intel Kaby Lake i5 7600K,4671
+Intel Skylake i7 6700,4685
+Intel Kaby Lake i5 7600,4719
+Intel Kaby Lake i7 7700,4746
+Intel Coffee Lake i5 8400,4755
+Intel Skylake i7 6700,4773
+Intel Kaby Lake i5 7600K,4775
+Intel Kaby Lake i5 7600,4823
+Intel Coffee Lake i5 8600K,4844
+Intel Skylake i7 6700,4861
+AMD Ryzen 5 1600,4871
+AMD Ryzen Threadripper 1950X,4878
+Intel Kaby Lake i5 7600K,4879
+Intel Kaby Lake i7 7700K,4886
+AMD Ryzen 5 1600X,4895
+AMD Ryzen Threadripper 1920X,4922
+Intel Skylake i7 6700K,4926
+Intel Coffee Lake i5 8600K,4952
+Intel Kaby Lake i7 7700K,4966
+AMD Ryzen 5 1600,4990
+Intel Kaby Lake i7 7700,4997
+Intel Skylake i7 6700K,5015
+Intel Kaby Lake i7 7700K,5046
+AMD Ryzen 5 1600X,5053
+Intel Coffee Lake i5 8600K,5060
+Intel Kaby Lake i7 7700,5077
+Intel Skylake i7 6700K,5104
+AMD Ryzen 5 1600,5109
+Intel Kaby Lake i7 7700,5157
+Intel Skylake i7 6700,5185
+AMD Ryzen 5 1600X,5211
+Intel Coffee Lake i5 8400,5234
+Intel Skylake i7 6700,5273
+Intel Kaby Lake i7 7700K,5297
+AMD Ryzen Threadripper 1950X,5303
+AMD Ryzen Threadripper 1920X,5306
+AMD Ryzen 5 1600,5321
+Intel Coffee Lake i5 8400,5342
+AMD Ryzen 5 Six Core 2600,5354
+Intel Skylake i7 6700,5361
+Intel Kaby Lake i7 7700K,5377
+Intel Kaby Lake i7 7700,5407
+Intel Skylake i7 6700K,5426
+AMD Ryzen 5 1600,5440
+Intel Coffee Lake i5 8400,5450
+Intel Kaby Lake i7 7700K,5457
+AMD Ryzen 5 Six Core 2600,5458
+AMD Ryzen 5 1600X,5463
+Intel Kaby Lake i7 7700,5487
+AMD Ryzen 5 Six Core 2600X,5507
+Intel Skylake i7 6700K,5515
+Intel Coffee Lake i5 8600K,5539
+AMD Ryzen 5 1600,5559
+AMD Ryzen 5 Six Core 2600,5562
+Intel Kaby Lake i7 7700,5567
+Intel Skylake i7 6700K,5604
+AMD Ryzen 5 Six Core 2600X,5611
+AMD Ryzen 7 1700,5611
+AMD Ryzen 5 1600X,5621
+Intel Coffee Lake i5 8600K,5647
+Intel Skylake i7 6700,5685
+AMD Ryzen Threadripper 1920X,5690
+Intel Kaby Lake i7 7700K,5707
+AMD Ryzen 5 Six Core 2600X,5715
+AMD Ryzen Threadripper 1950X,5728
+Intel Coffee Lake i5 8600K,5755
+AMD Ryzen 5 1600,5771
+Intel Skylake i7 6700,5773
+AMD Ryzen 5 1600X,5779
+Intel Kaby Lake i7 7700K,5787
+AMD Ryzen Threadripper 1900X,5801
+AMD Ryzen 7 1700,5816
+Intel Kaby Lake i7 7700,5818
+Intel Skylake i7 6700,5861
+Intel Kaby Lake i7 7700K,5867
+AMD Ryzen 5 1600,5890
+Intel Kaby Lake i7 7700,5898
+AMD Ryzen 5 Six Core 2600,5922
+Intel Skylake i7 6700K,5926
+Intel Coffee Lake i5 8400,5929
+Intel Kaby Lake i7 7700,5978
+AMD Ryzen 5 1600,6009
+Intel Skylake i7 6700K,6015
+AMD Ryzen 7 1700,6021
+AMD Ryzen 5 1600X,6031
+Intel Coffee Lake i5 8400,6037
+AMD Ryzen 5 Six Core 2600,6062
+AMD Ryzen 7 1700X,6071
+AMD Ryzen 5 Six Core 2600X,6075
+AMD Ryzen Threadripper 1900X,6076
+Intel Skylake i7 6700K,6104
+AMD Ryzen Threadripper 1920X,6109
+Intel Kaby Lake i7 7700K,6118
+AMD Ryzen 5 Six Core 2600,6130
+Intel Coffee Lake i5 8400,6145
+AMD Ryzen Threadripper 1950X,6170
+Intel Coffee Lake i7 8700,6172
+AMD Ryzen 5 Six Core 2600X,6179
+AMD Ryzen 5 1600X,6189
+Intel Kaby Lake i7 7700K,6198
+AMD Ryzen 5 1600,6221
+Intel Coffee Lake i5 8600K,6234
+AMD Ryzen 7 1800X,6246
+AMD Ryzen 7 1700X,6270
+Intel Kaby Lake i7 7700K,6278
+AMD Ryzen 5 Six Core 2600X,6283
+Intel Coffee Lake i7 8700,6328
+Intel Coffee Lake i7 8700K,6333
+AMD Ryzen 5 1600,6340
+Intel Coffee Lake i5 8600K,6342
+AMD Ryzen 5 1600X,6347
+AMD Ryzen Threadripper 1900X,6349
+AMD Ryzen Threadripper 1900X,6358
+Intel Coffee Lake i5 8600K,6450
+AMD Ryzen 5 1600,6459
+AMD Ryzen 7 1800X,6464
+Intel Coffee Lake i7 8700,6484
+Intel Coffee Lake i7 8700K,6489
+AMD Ryzen 5 Six Core 2600,6491
+AMD Ryzen Threadripper 1920X,6493
+AMD Ryzen 7 1700X,6499
+AMD Ryzen 7 1700,6592
+AMD Ryzen 5 Six Core 2600,6595
+AMD Ryzen Threadripper 1950X,6595
+AMD Ryzen 5 1600X,6599
+Intel Coffee Lake i5 8400,6624
+AMD Ryzen Threadripper 1900X,6633
+AMD Ryzen 5 Six Core 2600X,6644
+Intel Coffee Lake i7 8700K,6645
+AMD Ryzen 7 1800X,6682
+AMD Ryzen 5 Six Core 2600,6699
+Intel Coffee Lake i5 8400,6732
+AMD Ryzen 5 Six Core 2600X,6748
+AMD Ryzen 5 1600X,6757
+AMD Ryzen 7 1700,6797
+Intel Coffee Lake i5 8400,6840
+AMD Ryzen 5 Six Core 2600X,6852
+AMD Ryzen Threadripper 1920X,6877
+AMD Ryzen Threadripper 1900X,6906
+AMD Ryzen 5 1600X,6915
+AMD Ryzen Threadripper 1900X,6915
+Intel Coffee Lake i5 8600K,6929
+AMD Ryzen 7 1700,7002
+AMD Ryzen Threadripper 1950X,7020
+Intel Coffee Lake i5 8600K,7037
+AMD Ryzen 5 Six Core 2600,7060
+AMD Ryzen 7 Eight Core 2700,7063
+AMD Ryzen 7 1700X,7081
+Intel Coffee Lake i5 8600K,7145
+AMD Ryzen 7 Eight Core 2700X,7157
+AMD Ryzen 5 Six Core 2600,7164
+AMD Ryzen Threadripper 1900X,7190
+AMD Ryzen 5 Six Core 2600X,7213
+AMD Ryzen 5 Six Core 2600,7268
+AMD Ryzen 7 1700X,7280
+AMD Ryzen 7 Eight Core 2700,7287
+AMD Ryzen Threadripper 1920X,7297
+AMD Ryzen 5 Six Core 2600X,7317
+AMD Ryzen 7 1800X,7360
+AMD Ryzen 7 Eight Core 2700X,7381
+AMD Ryzen 5 Six Core 2600X,7421
+AMD Ryzen Threadripper 1950X,7461
+AMD Ryzen Threadripper 1900X,7463
+AMD Ryzen Threadripper 1900X,7472
+AMD Ryzen 7 1700X,7479
+AMD Ryzen 7 Eight Core 2700,7511
+Intel Coffee Lake i7 8700,7556
+AMD Ryzen 7 1700,7573
+AMD Ryzen 7 1800X,7578
+AMD Ryzen 7 Eight Core 2700X,7605
+AMD Ryzen Threadripper 1920X,7681
+Intel Coffee Lake i7 8700,7712
+Intel Coffee Lake i7 8700K,7717
+AMD Ryzen Threadripper 1900X,7747
+AMD Ryzen 7 1700,7778
+AMD Ryzen 7 1800X,7796
+Intel Coffee Lake i7 8700,7868
+Intel Coffee Lake i7 8700K,7873
+AMD Ryzen Threadripper 1950X,7886
+AMD Ryzen 7 1700,7983
+AMD Ryzen 7 Eight Core 2700,7993
+AMD Ryzen Threadripper 1900X,8020
+AMD Ryzen Threadripper 1900X,8029
+Intel Coffee Lake i7 8700K,8029
+AMD Ryzen Threadripper 1920X,8065
+AMD Ryzen 7 Eight Core 2700X,8087
+AMD Ryzen 7 1700X,8091
+AMD Ryzen 7 Eight Core 2700,8217
+AMD Ryzen 7 1700X,8290
+AMD Ryzen Threadripper 1900X,8304
+AMD Ryzen 7 Eight Core 2700X,8311
+AMD Ryzen Threadripper 1950X,8311
+AMD Ryzen 7 Eight Core 2700,8441
+AMD Ryzen 7 1800X,8473
+AMD Ryzen Threadripper 1920X,8485
+AMD Ryzen 7 1700X,8489
+AMD Ryzen 7 Eight Core 2700X,8535
+AMD Ryzen 7 1700,8554
+AMD Ryzen Threadripper 1900X,8577
+AMD Ryzen Threadripper 1900X,8585
+AMD Ryzen 7 1800X,8691
+AMD Ryzen Threadripper 1950X,8753
+AMD Ryzen 7 1700,8759
+AMD Ryzen Threadripper 1900X,8860
+AMD Ryzen Threadripper 1920X,8869
+AMD Ryzen 7 1800X,8909
+AMD Ryzen 7 Eight Core 2700,8923
+Intel Coffee Lake i7 8700,8939
+AMD Ryzen 7 1700,8964
+AMD Ryzen 7 Eight Core 2700X,9017
+Intel Coffee Lake i7 8700,9095
+AMD Ryzen 7 1700X,9101
+Intel Coffee Lake i7 8700K,9101
+AMD Ryzen Threadripper 1900X,9133
+AMD Ryzen Threadripper 1900X,9142
+AMD Ryzen 7 Eight Core 2700,9147
+AMD Ryzen Threadripper 1950X,9178
+AMD Ryzen 7 Eight Core 2700X,9241
+Intel Coffee Lake i7 8700,9251
+AMD Ryzen Threadripper 1920X,9253
+Intel Coffee Lake i7 8700K,9257
+AMD Ryzen 7 1700X,9300
+AMD Ryzen 7 Eight Core 2700,9371
+Intel Coffee Lake i7 8700K,9413
+AMD Ryzen Threadripper 1900X,9417
+AMD Ryzen 7 Eight Core 2700X,9465
+AMD Ryzen 7 1700X,9499
+AMD Ryzen 7 1800X,9587
+AMD Ryzen Threadripper 1950X,9603
+AMD Ryzen Threadripper 1920X,9673
+AMD Ryzen Threadripper 1900X,9690
+AMD Ryzen Threadripper 1900X,9699
+AMD Ryzen 7 1800X,9805
+AMD Ryzen 7 Eight Core 2700,9853
+AMD Ryzen 7 Eight Core 2700X,9947
+AMD Ryzen Threadripper 1900X,9974
+AMD Ryzen 7 1800X,10023
+AMD Ryzen Threadripper 1950X,10045
+AMD Ryzen Threadripper 1920X,10057
+AMD Ryzen 7 Eight Core 2700,10077
+AMD Ryzen 7 Eight Core 2700X,10171
+AMD Ryzen Threadripper 1900X,10248
+AMD Ryzen 7 Eight Core 2700,10301
+Intel Coffee Lake i7 8700,10323
+AMD Ryzen 7 Eight Core 2700X,10395
+AMD Ryzen Threadripper 1920X,10441
+AMD Ryzen Threadripper 1950X,10470
+Intel Coffee Lake i7 8700,10479
+Intel Coffee Lake i7 8700K,10484
+Intel Coffee Lake i7 8700,10635
+Intel Coffee Lake i7 8700K,10640
+Intel Coffee Lake i7 8700K,10796
+AMD Ryzen Threadripper 1920X,10860
+AMD Ryzen Threadripper 1950X,10895
+AMD Ryzen Threadripper 1920X,11244
+AMD Ryzen Threadripper 1950X,11337
+AMD Ryzen Threadripper 1920X,11628
+AMD Ryzen Threadripper 1950X,11762
+AMD Ryzen Threadripper 1920X,12048
+AMD Ryzen Threadripper 1950X,12187
+AMD Ryzen Threadripper 1920X,12432
+AMD Ryzen Threadripper 1950X,12628
+AMD Ryzen Threadripper 1920X,12816
+AMD Ryzen Threadripper 1950X,13053
+AMD Ryzen Threadripper 1920X,13236
+AMD Ryzen Threadripper 1950X,13478
+AMD Ryzen Threadripper 1920X,13620
+AMD Ryzen Threadripper 1950X,13920
+AMD Ryzen Threadripper 1920X,14004
+AMD Ryzen Threadripper 1950X,14345
+AMD Ryzen Threadripper 1950X,14770

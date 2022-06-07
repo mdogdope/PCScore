@@ -1,0 +1,15 @@
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\bin\Debug\net6.0\PCScore.exe
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\bin\Debug\net6.0\PCScore.deps.json
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\bin\Debug\net6.0\PCScore.runtimeconfig.json
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\bin\Debug\net6.0\PCScore.dll
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\bin\Debug\net6.0\PCScore.pdb
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.csproj.AssemblyReference.cache
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.AssemblyInfoInputs.cache
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.AssemblyInfo.cs
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.csproj.CoreCompileInputs.cache
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.dll
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\refint\PCScore.dll
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.pdb
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\PCScore.genruntimeconfig.cache
+C:\Users\ekimh\Documents\~My_Projects\Coding_Projects\CS\PCScore\obj\Debug\net6.0\ref\PCScore.dll
